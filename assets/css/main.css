@@ -2,8 +2,13 @@
 @import url("video.css");
 
 @font-face {
-    font-family: "AvenirLTStd-Roman";
-    src: url("AvenirLTStd-Roman.otf");
+  font-family: 'San-Francisco-UL';
+  src: url('../fonts/sanfranciscodisplay-ultralight-webfont.woff');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-Roman';
+    src: url('../fonts/AvenirLTStd-Roman.woff') format('woff');
 }
 
 /* Reset */
@@ -2649,7 +2654,8 @@
 			margin: 0;
 			text-transform: initial;
 			letter-spacing: 0px;
-			font-weight: 100;	
+			font-weight: 100;
+			font-family: 'PingFangSC-Ultralight', 'San-Francisco-UL', sans-serif;	
 		}
 
 		#header p {
