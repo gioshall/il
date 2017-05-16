@@ -6,6 +6,6 @@ console.log(device);
 
 if (mobile) {
      $('.video-background').hide();
-     $('body').addClass('m-bg')
+     $('body').addClass('m-bg');
      }
 });

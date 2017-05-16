@@ -34,6 +34,7 @@
 
 	body.m-bg {
 		background: url(../../images/v-bg.jpg) center/cover no-repeat;
+		background-attachment: fixed;
 	}
 
 	ol, ul {
