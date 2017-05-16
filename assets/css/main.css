@@ -32,6 +32,10 @@
 		line-height: 1;
 	}
 
+	body.m-bg {
+		background: url(../../images/v-bg.jpg) center/cover no-repeat;
+	}
+
 	ol, ul {
 		list-style: none;
 	}
