@@ -33,7 +33,7 @@
 	}
 
 	body.m-bg {
-		background: url(../../images/v-bg.jpg) center/cover no-repeat;
+		background: url(../../images/v-bg.jpg) center/auto 100% no-repeat;
 		background-attachment: fixed;
 	}
 
