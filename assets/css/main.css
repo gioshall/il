@@ -33,8 +33,9 @@
 	}
 
 	body.m-bg {
-		background: url(../../images/v-bg.jpg) center/auto 100% no-repeat;
-		background-attachment: fixed;
+		/*background: url(../../images/v-bg.jpg) center/auto 100% no-repeat;
+		background-attachment: fixed;*/
+		background-color: #ff0000;
 	}
 
 	ol, ul {
